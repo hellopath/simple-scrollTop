@@ -1,0 +1,28 @@
+{
+  "name": "simple-scrolltop",
+  "version": "1.0.0",
+  "description": "A simple crossbrowser getter and setter of scrollTop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hellopath@github.com/hellopath/simple-scrollTop.git"
+  },
+  "keywords": [
+    "scroll",
+    "scrollTop",
+    "scrolltop",
+    "get",
+    "set",
+    "window",
+    "body"
+  ],
+  "author": "hellopath <contact@pa-th.com> (http://pa-th.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellopath/simple-scrollTop/issues"
+  },
+  "homepage": "https://github.com/hellopath/simple-scrollTop#readme"
+}
