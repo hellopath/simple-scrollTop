@@ -1,6 +1,6 @@
 {
   "name": "simple-scrolltop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple crossbrowser getter and setter of scrollTop",
   "main": "index.js",
   "scripts": {

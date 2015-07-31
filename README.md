@@ -6,7 +6,7 @@ This is what you need. A crossbrowsing get and set scrollTop()
 # Usage
 
 ``` js
-import scrolltop from 'simple-scrollTop';
+import scrolltop from 'simple-scrolltop';
 
 // get
 var currentPageScrollPosition = scrolltop();
@@ -20,5 +20,5 @@ scrollTop(myNewScrollPosition);
 With [npm](https://npmjs.org) do:
 
 ```
-npm install simple-scrollTop
+npm install simple-scrolltop
 ```
